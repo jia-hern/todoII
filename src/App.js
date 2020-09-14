@@ -48,9 +48,12 @@ class App extends Component {
         templist[index].edited = false;
       }
     }
-    //dk why the next 2 lines dont work
-    // let text = templist[id][0];
-    // templist = templist.splice(id, 1, [text, true, true]);
+    //dk why the next line dont work
+    // templist = templist.splice(id, 1, {
+    //   text: this.state.list[id].text,
+    //   editing: true,
+    //   edited: true,
+    // });
     this.setState({ list: templist });
     //to show the confirm edit button
     // templist[id][2] = true;
