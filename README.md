@@ -1,6 +1,6 @@
 ## TodoII
 
-This is an add on to [todoI](https://github.com/jia-hern/todoI)
+This is an add on to [todo](https://github.com/jia-hern/todo)
 
 Todo on REACT with CRUD
 
