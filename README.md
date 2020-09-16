@@ -1,5 +1,8 @@
-Todo on REACT
-with CRUD
+## TodoII
+
+This is an add on to [todoI](https://github.com/jia-hern/todoI)
+
+Todo on REACT with CRUD
 
 moved from an array of array to an array of objects <br>
 -> list: [<br>
